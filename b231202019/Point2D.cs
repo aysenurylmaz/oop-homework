@@ -54,7 +54,7 @@ namespace b231202019
         public void printCoordinates()
         {
             Console.WriteLine("Cartesian Coordinates: (" + x + ", " + y + ")");
-        }
+        } 
 
         //Method to calculate polar coordinates of the 2D point
         public void calculatePolarCoordinates()
